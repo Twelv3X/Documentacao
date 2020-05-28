@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"projetofinal","l":"Arbitro"},{"p":"projetofinal","l":"Clube"},{"p":"projetofinal","l":"Competicao"},{"p":"projetofinal","l":"Equipa"},{"p":"projetofinal","l":"Jogador"},{"p":"projetofinal","l":"Jogo"},{"p":"projetofinal","l":"Main"},{"p":"projetofinal","l":"Pessoa"},{"p":"projetofinal","l":"Treinador"}]
